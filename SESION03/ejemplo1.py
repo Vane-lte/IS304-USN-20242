@@ -1,4 +1,4 @@
-class Fraccion:
+cass Fraccion:
     def __init__(self, num=0, den=1):
         self.__num = num
         self.__den = den
